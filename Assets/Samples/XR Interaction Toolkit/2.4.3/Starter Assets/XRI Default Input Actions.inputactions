@@ -2197,34 +2197,6 @@
                     "isPartOfComposite": false
                 }
             ]
-        },
-        {
-            "name": "New action map",
-            "id": "157b65c6-c0e6-406c-92c1-c72d58f43274",
-            "actions": [
-                {
-                    "name": "New action",
-                    "type": "Button",
-                    "id": "77bb5cf3-7b3b-4431-a3a9-28ec37f2fe8b",
-                    "expectedControlType": "Button",
-                    "processors": "",
-                    "interactions": "",
-                    "initialStateCheck": false
-                }
-            ],
-            "bindings": [
-                {
-                    "name": "",
-                    "id": "d1dda99a-a5f2-45d9-939a-6bf0c2831339",
-                    "path": "<XRController>{RightHand}/secondaryButton",
-                    "interactions": "Press",
-                    "processors": "",
-                    "groups": "",
-                    "action": "New action",
-                    "isComposite": false,
-                    "isPartOfComposite": false
-                }
-            ]
         }
     ],
     "controlSchemes": [

@@ -3,8 +3,14 @@ using UnityEngine.SceneManagement;
 
 public class LoadScene : MonoBehaviour
 {
-    public void LoadCurrentScene()
+    public int sceneIndex;
+    public void ReloadCurrentScene()
     {
         SceneManager.LoadScene(SceneManager.GetActiveScene().buildIndex);
+    }
+
+    public void LoadSceneIndex()
+    {
+        SceneManager.LoadScene(sceneIndex);
     }
 }

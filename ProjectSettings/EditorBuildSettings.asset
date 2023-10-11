@@ -5,9 +5,21 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/Scenes/Ibuprofen.unity
     guid: 99c9720ab356a0642a771bea13969a05
+  - enabled: 1
+    path: Assets/Scenes/1.1Classifychirality.unity
+    guid: 2b95f7c707519e54fa42892c3eadd545
+  - enabled: 1
+    path: Assets/Scenes/1.2CountChiralCenters.unity
+    guid: 572814c8a41e2354caca9789aba5d00f
+  - enabled: 1
+    path: Assets/Scenes/2.1AssigningEnantiomers.unity
+    guid: 4078832f80d029a4887f5b8fe423e242
+  - enabled: 1
+    path: Assets/Scenes/2.2Penicillamine.unity
+    guid: c2a416fa8be2d4b4991803243cd7f6bf
   m_configObjects:
     Unity.XR.Oculus.Settings: {fileID: 11400000, guid: 6d65309514668274aa41d587645f97cf,
       type: 2}
